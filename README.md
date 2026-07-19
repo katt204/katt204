@@ -201,13 +201,6 @@ Building AI-powered applications using:
 
 ---
 
-# 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 - Email: hudswillington@gmail.com
